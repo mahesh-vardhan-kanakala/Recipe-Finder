@@ -1,4 +1,4 @@
-// Your API credentials
+// Your API credentials  and change it with your app_id & app_key
 const app_id = '63eb601b';
 const app_key = '1d180b748b2ccbe2a189bb796f287e89';
 
